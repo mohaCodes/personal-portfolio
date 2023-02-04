@@ -11,11 +11,12 @@ module.exports = {
             colors: {
                 "dark-background": "#040403",
                 "white-text": "#E5D3C9",
+                "secondary-white-text": "#D9C7BD"
             },
             fontFamily: {
                 oswald: "'Oswald', sans-serif;",
                 roboto: "'Roboto', sans-serif",
-                workSans: "'Work Sans', sans-serif",
+                sofiaSans: "'Sofia Sans Extra Condensed', sans-serif",
             },
         },
     },
