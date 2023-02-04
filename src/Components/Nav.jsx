@@ -9,7 +9,7 @@ export default function Nav() {
                     <span className="material-symbols-rounded self-center text-xl">
                         radio_button_unchecked
                     </span>
-                    <div className="ml-1.5 font-medium ">
+                    <div className="ml-2.5 font-medium ">
                         <h3 className="">Mohamed</h3>
                         <h3 className=" -mt-1">A. Mueen</h3>
                     </div>
