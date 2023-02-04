@@ -11,7 +11,8 @@ module.exports = {
             colors: {
                 "dark-background": "#040403",
                 "white-text": "#E5D3C9",
-                "secondary-white-text": "#D9C7BD"
+                "secondary-white-text": "#D9C7BD",
+                "grayish-white": "#BAACA3"
             },
             fontFamily: {
                 oswald: "'Oswald', sans-serif;",
