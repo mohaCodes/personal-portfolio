@@ -3,8 +3,8 @@ import React from "react"
 export default function Nav() {
     return (
         //This is the nav element
-        <nav className="sticky">
-            <div className="flex flex-row w-full border border-white p-5 align-baseline justify-between text-secondary-white-text">
+        <nav className="fixed min-w-full z-10">
+            <div className="flex flex-row w-full p-6 align-baseline justify-between bg-dark-background text-secondary-white-text">
                 <div className="flex flex-row text-xs ">
                     <span className="material-symbols-rounded self-center text-xl">
                         radio_button_unchecked
