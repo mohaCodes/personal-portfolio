@@ -9,11 +9,13 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                "dark-background": "#242424",
-                "white-text": "#FFFFFF"
+                "dark-background": "#040403",
+                "white-text": "#E5D3C9",
             },
             fontFamily: {
-                lato: "'Lato', sans-serif",
+                oswald: "'Oswald', sans-serif;",
+                roboto: "'Roboto', sans-serif",
+                workSans: "'Work Sans', sans-serif",
             },
         },
     },
