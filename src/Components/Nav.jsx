@@ -4,7 +4,7 @@ export default function Nav() {
     return (
         //This is the nav element
         <nav className="sticky">
-            <div className="flex flex-row w-full border border-white p-5 align-baseline justify-between text-[#D9C7BD]">
+            <div className="flex flex-row w-full border border-white p-5 align-baseline justify-between text-secondary-white-text">
                 <div className="flex flex-row text-xs ">
                     <span className="material-symbols-rounded self-center text-xl">
                         radio_button_unchecked
