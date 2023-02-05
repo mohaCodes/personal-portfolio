@@ -15,7 +15,7 @@ export default function Nav() {
                     </div>
                 </div>
 
-                <span class="material-symbols-rounded self-center">
+                <span className="material-symbols-rounded self-center">
                     menu
                 </span>
             </div>
