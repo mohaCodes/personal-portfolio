@@ -11,7 +11,7 @@ export default function PersonalInfo() {
                 <h4 className="font-normal mt-3 text-white-text text-xs">
                     I'm a{" "}
                     <Typical
-                    className="z-0"
+                        className="z-0"
                         steps={[
                             "Web Developer",
                             1500,
