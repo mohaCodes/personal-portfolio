@@ -16,7 +16,7 @@ module.exports = {
             },
             fontFamily: {
                 oswald: "'Oswald', sans-serif;",
-                roboto: "'Roboto', sans-serif",
+                roboto: "'Poppins', sans-serif",
                 sofiaSans: "'Sofia Sans Extra Condensed', sans-serif",
             },
         },

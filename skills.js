@@ -23,7 +23,7 @@ const skills = [
     ],
     [
         "Nodejs",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
+        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg",
     ],
     [
         "Kotlin",

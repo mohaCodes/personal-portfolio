@@ -28,8 +28,7 @@ export default function About() {
                 </p>
 
                 <p className="text-grayish-white mt-6 leading-[1.38] text-[0.8rem]">
-                    I'm now a full stack javascript developer (mainly) at
-                    the start of his journey, looking to create projects
+                    I'm currently at the start of my journey, looking to create projects
                     that would change the world and to be an essential in
                     everyone's daily life.
                 </p>
