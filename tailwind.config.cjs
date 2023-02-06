@@ -19,6 +19,14 @@ module.exports = {
                 roboto: "'Poppins', sans-serif",
                 sofiaSans: "'Sofia Sans Extra Condensed', sans-serif",
             },
+            screens: {
+                "tablet": "426px",
+                "tablet-md": "530px",
+                "692": "692px",
+                "650": "650px",
+                "900": "900px",
+                "850": "850px",
+            }
         },
     },
     plugins: [],

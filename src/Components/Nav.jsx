@@ -5,7 +5,7 @@ export default function Nav() {
         //This is the nav element
         <nav className="fixed min-w-full z-10">
             <div className="flex flex-row w-full p-6 align-baseline justify-between bg-dark-background text-secondary-white-text">
-                <div className="flex flex-row text-xs ">
+                <div className="flex flex-row text-xs tablet:text-sm ">
                     <span className="material-symbols-rounded self-center text-xl">
                         radio_button_unchecked
                     </span>
