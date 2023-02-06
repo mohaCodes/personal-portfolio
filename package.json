@@ -1,5 +1,5 @@
 {
-    "homepage": "http://mohacodes.github.io/personal-portfolio",
+    "homepage": "https://mohacodes.github.io/personal-portfolio",
     "name": "personal-portfolio-maincode",
     "private": true,
     "version": "0.0.0",
@@ -7,7 +7,7 @@
     "scripts": {
         "prettier": "prettier --write .",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d build",
+        "deploy": "gh-pages -d dist",
         "dev": "vite",
         "build": "vite build",
         "preview": "vite preview"
